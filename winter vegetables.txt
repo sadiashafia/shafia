@@ -1,0 +1,22 @@
+Coliflower
+40
+30.0
+Tomato
+200
+5.5
+Cabbage
+350
+40.0
+Lattose
+500
+3.05
+Carrot
+500
+10.0
+Coriander leave
+500
+3.0
+Potato
+200
+5.0
+
